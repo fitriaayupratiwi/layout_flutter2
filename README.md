@@ -1,0 +1,13 @@
+Fitria Ayu Pratiwi (362358302016)
+![1](image.png)
+
+![Material apps](image-1.png)
+![Cupertino apps](image-2.png)
+![Non-Material apps](image-3.png)
+![Row](image-4.png)
+![Column](image-5.png)
+![Row1](image-6.png)
+![Row2](image-7.png)
+![Packing widgets](image-8.png)
+![Container](image-9.png)
+![GridView](image-10.png)
